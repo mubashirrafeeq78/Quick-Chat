@@ -2,7 +2,7 @@ name: Flutter Web CI
 
 on:
   push:
-    branches: [ temp ]   # اگر آپ کی برانچ "main" ہے تو اسے main کر دیں
+    branches: [ temp ]   # اگر آپ کی برانچ main ہے تو اسے main کر دیں
 
 jobs:
   build:
